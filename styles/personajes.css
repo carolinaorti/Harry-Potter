@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'harry potter';
+    src: url('../fonts/HARRYP__.TTF')
+}
+
+header {
+    background-color: lightgray;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px 50px;
+    margin: 0px;
+}
+
+li {
+    list-style: none;
+    text-decoration: none;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+footer {
+    background-color: lightgray;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px 50px;
+    margin: 0px;
+}
