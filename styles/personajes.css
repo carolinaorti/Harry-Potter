@@ -12,6 +12,10 @@ header {
     margin: 0px;
 }
 
+#icon {
+    width: 50px;
+}
+
 nav ul {
     display: flex;
 }
@@ -36,6 +40,7 @@ body {
 body section article h1 {
     font-family: 'harry potter';
     font-size: 80px;
+    margin: 20px 30px;
 }
 
 #box {
@@ -49,4 +54,6 @@ footer {
     align-items: center;
     padding: 20px 50px;
     margin: 0px;
+    color: black;
+
 }

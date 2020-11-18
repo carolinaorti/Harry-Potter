@@ -12,6 +12,10 @@ header {
     margin: 0px;
 }
 
+#icon {
+    width: 50px;
+}
+
 nav ul {
     display: flex;
 }
@@ -47,4 +51,5 @@ footer {
     align-items: center;
     padding: 20px 50px;
     margin: 0px;
+    color: black;
 }
