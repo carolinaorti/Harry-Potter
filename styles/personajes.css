@@ -12,14 +12,24 @@ header {
     margin: 0px;
 }
 
-li {
+nav ul {
+    display: flex;
+}
+
+
+nav ul li {
     list-style: none;
+    text-decoration: none;
+    margin: 0px 16px;
+}
+
+nav ul li a {
+    color: black;
     text-decoration: none;
 }
 
-a {
-    color: black;
-    text-decoration: none;
+body {
+    margin: 0px 0px;
 }
 
 footer {
