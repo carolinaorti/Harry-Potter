@@ -29,6 +29,11 @@ nav ul li a {
 
 body {
     margin: 0px 0px;
+    font-family: fantasy;
+}
+
+blockquote {
+    font-family: cursive;
 }
 
 section center {

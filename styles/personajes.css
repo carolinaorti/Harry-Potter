@@ -30,6 +30,16 @@ nav ul li a {
 
 body {
     margin: 0px 0px;
+    font-family: fantasy;
+}
+
+body section article h1 {
+    font-family: 'harry potter';
+    font-size: 80px;
+}
+
+#box {
+    margin: 0px 15px;
 }
 
 footer {
