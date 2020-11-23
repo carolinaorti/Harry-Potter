@@ -3,6 +3,16 @@
     src: url('../fonts/HARRYP__.TTF')
 }
 
+@font-face {
+    font-family: 'quote';
+    src: url('../fonts/HoneyScript-Light.ttf')
+}
+
+@font-face {
+    font-family: 'light';
+    src: url('../fonts/ClaphappyLight.ttf')
+}
+
 header {
     background-color: lightgray;
     display: flex;
@@ -33,11 +43,13 @@ nav ul li a {
 
 body {
     margin: 0px 0px;
-    font-family: fantasy;
+    font-family: light;
+    font-size: 17px;
 }
 
 blockquote {
-    font-family: cursive;
+    font-family: quote;
+    font-size: 30px;
 }
 
 section center {
