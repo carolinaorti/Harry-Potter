@@ -42,6 +42,22 @@ body {
     font-size: 17px;
 }
 
+#box {
+    margin: 0 20px;
+
+}
+
+section div h2 {
+    margin: 30px 40px;
+    margin-top: 50px;
+    font-family: "harry potter";
+    font-size: 80px;
+}
+
+#video-container {
+    margin: 0 100px;
+}
+
 footer {
     background-color: lightgray;
     display: flex;
